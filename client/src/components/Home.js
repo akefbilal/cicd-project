@@ -158,7 +158,7 @@ const Home = (props) => {
             <h2>Happy Customer's</h2>
             <div className="row">
                 <div className="shadow col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3">
-                    <h4>HASSAN KHAN</h4>
+                    <h4>HASSAN </h4>
                     <h6>CEO at TechGeeks</h6>
                     <span style={{color:"#ffc93c"}}>
                     <i className="fa fa-star" aria-hidden="true"></i>
