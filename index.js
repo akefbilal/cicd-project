@@ -32,7 +32,7 @@ const countRouter = require("./server/routes/count");
 // const { default: User } = require("./client/src/components/User/User");
 
 // Model
-let userModel = require("./server/models/user");
+let userModel = require("./server/models/user"); 
 let orderModel = require("./server/models/order")
 
 // Middleware
